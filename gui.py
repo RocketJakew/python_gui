@@ -4,13 +4,13 @@
 # xlsx file uploads the xlsx file and the xlsx file is then transformed in a json format which can then be sent using an api
 import tkinter as tk
 import pandas as pd 
-
+from tkinter import filedialog
 
 def on_button_click():
     label.config(text="Button Clicked!")
 # Function to browse filesystem
 def browseFiles():
- global filename
+    global filename
     filename = filedialog.askopenfilename(initialdir = "/",
                                           title = "Select a Excel-pthFile",
                                           filetypes = ("Excel files",
@@ -20,10 +20,17 @@ def browseFiles():
     # Change label contents
     label_file_explorer.configure(text="File Opened: "+filename)
  
+def open_file_browser():
+    global filename
+    file_path = filedialog.askopenfilename()
+    
+    if file_path:
+        filename = file_path
+         
 def convert_to_json():
- print("Convert to JSON Function")
-  df = pd.read_excel(filename)
-  df.show()
+    print("Convert to JSON Function")
+    df = pd.read_excel(filename)
+    print(df)
 # 
 # Create the main window
 root = tk.Tk()
@@ -35,7 +42,7 @@ label = tk.Label(root, text="Hello, Tkinter!", font=("Arial", 14))
 label.pack(pady=20)
 
 # Create a button
-button = tk.Button(root, text="Browse", command=browseFiles)
+button = tk.Button(root, text="Browse", command=open_file_browser)
 button.pack()
 
 start_process = tk.Button(root, text="Start Process", command=convert_to_json)
