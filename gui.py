@@ -23,8 +23,8 @@ def browseFiles():
 def convert_to_json():
  print("Convert to JSON Function")
   df = pd.read_excel(filename)
- df.show()
-
+  df.show()
+# 
 # Create the main window
 root = tk.Tk()
 root.title("ESMP Converter & Upload")
