@@ -1,0 +1,209 @@
+{
+    "routineShortages": {
+        "items": [
+            {
+                "subject": "74320",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "PT"
+            },
+            {
+                "subject": "74321",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "BE"
+            },
+            {
+                "subject": "74321",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LU"
+            },
+            {
+                "subject": "74323",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "AT"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "CY"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "GR"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "IE"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "IT"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "MT"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "NL"
+            },
+            {
+                "subject": "74324",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "PL"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "AT"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "BE"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "BG"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "HR"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "CZ"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "DK"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "EE"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "FI"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "HU"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LV"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LT"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LU"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "potential",
+                "authorisationCountry": "PT",
+                "shortagePeriod": {
+                    "start": "2025-02-21",
+                    "end": "2025-04-15"
+                },
+                "shortageRootCauses": [
+                    "200000028689",
+                    "200000028681"
+                ]
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "SK"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "SI"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "ES"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "SE"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "IS"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LI"
+            },
+            {
+                "subject": "74325",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "NO"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "CZ"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "DK"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "FI"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "SK"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "SE"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "IS"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "LI"
+            },
+            {
+                "subject": "74329",
+                "shortageStatus": "no shortage",
+                "authorisationCountry": "NO"
+            }
+        ]
+    }
+}
